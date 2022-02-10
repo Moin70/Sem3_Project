@@ -42,7 +42,7 @@ Establishing a connection between frontend and backend.
 
 #Folders and Files:
                    
-                   Admin:Contains all source code files related to admin module.
+                   Admin folder:Contains all source code files related to admin module.
                                      appointment: It is a php source code file, helps admin to view all
                                                               scheduled appointments.
                                      appointment_action: It contains source code for the search button which 
@@ -57,9 +57,24 @@ Establishing a connection between frontend and backend.
                                      login: source code file contains source code of login page.
                                      login_action: Source code file of login button to authenticate admin from 
                                                              the database.
-                         CSS:  Contains all stylesheets used in project.
-                        Class:  Contains php classes used in the project.
-                        Bootstrap: Contains Bootstrap tools used in the project.
+                         CSS folder:  Contains all stylesheets used in project.
+                        Class Folder:  Contains php classes used in project.
+                        Bootstrap folder: Contains Bootstrap tools used in project. 
+                        appointment.php file :This file helps to dispaly the total appointments taken by a a patient.
+                        login.php file: A source code file, It redirects a patient to the dashboard afetr successful 
+                                           authentication.
+                        logout.php file: A source code file, It redirects a patient to the login page.
+                        register.php file : A source code file It helps new users to get registered.
+                        Index.php: A source code file, It open the dashboard for the patients where they can
+                                   see the availability of doctors.
+                        navbar.php : A source code file, It displays the navigation bar on the appointment page.
+                        profile.php : A source code file displays user profile, user can edit his profile as well.
+                        verify.php : A source code file helps user to verify their email and once verified reflect it
+                                     to the database.
+                        download.php : A source code file helps to download report in pdf form.
+                        footer.php : A source code file contains code for the footer.
+                        header.php : A source code file contains code for the header.
+                        
 
 #Further Work
 
