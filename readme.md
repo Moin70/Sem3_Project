@@ -59,6 +59,7 @@ Establishing a connection between frontend and backend.
                                                              the database.
                          CSS folder:  Contains all stylesheets used in project.
                         Class Folder:  Contains php classes used in project.
+                        SCSS folder : contains all scss files used in the project.
                         Bootstrap folder: Contains Bootstrap tools used in project. 
                         appointment.php file :This file helps to dispaly the total appointments taken by a a patient.
                         login.php file: A source code file, It redirects a patient to the dashboard afetr successful 
