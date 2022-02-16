@@ -84,9 +84,11 @@ more attractive by adding more styles to make it look more user friendly.
 An android app is to be developed for the same web portal so that It can be made more convenient for the patients
 to connect where they do not need to login again and again like in web browser.
                   
-                     
+#Environment setup
 
-
+To run this project on a local machine one need to install XAMPP server provided by apachefriends which includes all tools required to run a php project after successful
+Installation start APACHE and MYSQL in XAMPP also we need to create the database and all the tables being used in the project in mysql, now the machine is ready to run 
+this project. 
                          
               
 
